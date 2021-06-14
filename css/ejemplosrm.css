@@ -1,0 +1,175 @@
+.container-title-expli{
+  background: rgb(201, 114, 16);
+  padding: 100px 70px;
+
+}
+.img-title{
+margin-top: 20px;
+}
+.title-topic{
+  font-size: 60px;
+  color: white;
+  
+  }
+  .words-topic{
+    font-size: 40px;
+    color: white;
+  }
+  .para-topic{
+    font-size: 25px;
+    color: white;
+  }
+
+
+  .container-video{
+    background: rgb(240, 240, 240);
+  padding: 100px 70px;
+  }
+  .container-img{
+    background: rgb(250, 250, 250);
+  padding: 100px 70px;
+  }
+  .title-sec{
+  font-size: 40px;
+  }
+  .para-sec{
+  font-size: 25px;
+  }
+  .tam-v{
+
+    width: 100%;
+ height: 300px;
+  
+
+  }
+  .tam-img{
+width: 80%;
+    
+  }
+  
+
+
+    
+    
+    
+@media (max-width: 970px) {
+  .img-title{
+    width: 70%;
+  }
+ 
+
+}
+
+@media (max-width: 750px) {
+  .title-topic{
+    font-size: 50px;
+    color: white;
+    
+    }
+    .words-topic{
+      font-size: 30px;
+      color: white;
+    }
+    .para-topic{
+      font-size: 20px;
+      color: white;
+    }
+  .img-title{
+    margin-top: 30px;
+    width: 30%;
+  }
+
+  .container-title-expli{
+    background: rgb(201, 114, 16);
+    padding: 100px 20px;
+  
+  }
+  .title-sec{
+    font-size: 40px;
+    
+  }
+  .para-sec{
+    font-size: 25px;
+    
+  }
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

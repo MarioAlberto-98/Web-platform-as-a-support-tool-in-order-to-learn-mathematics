@@ -1,0 +1,75 @@
+
+
+body{
+/*  background: url('fondo1.png') no-repeat;  */
+  background-size:cover;
+  padding-bottom: 50%;
+
+  margin: 0;
+  padding: 0;
+
+}
+
+.container-texto{
+  background: rgb(127, 182, 0);
+  padding: 100px 70px;
+
+}
+.img-title{
+  width: 45%;
+}
+
+.container-math{
+  padding: 100px 60px;
+  
+}
+.title-menu{
+font-size: 60px;
+color: white;
+
+}
+.words-menu{
+  font-size: 40px;
+}
+.para-menu{
+  font-size: 25px;
+}
+@media (max-width: 970px) {
+  .img-title{
+    width: 70%;
+  }
+ 
+
+}
+
+@media (max-width: 750px) {
+  .title-menu{
+    font-size: 40px;
+    color: white;
+    
+    }
+    .words-menu{
+      font-size: 30px;
+    }
+    .para-menu{
+      font-size: 20px;
+    }
+  .img-title{
+    margin-top: 30px;
+    width: 30%;
+  }
+  .container-texto{
+    background: rgb(82, 165, 4);
+    padding: 100px 20px;
+  
+  }
+
+}
+
+
+
+
+
+
+
+

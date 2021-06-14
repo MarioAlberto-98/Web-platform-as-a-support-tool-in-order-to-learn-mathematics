@@ -1,0 +1,348 @@
+
+
+body{
+        background: url('fo.png') no-repeat;   
+        background-size:cover;
+        padding-bottom: 50%;
+      
+        margin: 0;
+        padding: 0;
+        font-family:sans-serif;
+}
+h1{
+  
+        font-family: 'Kalam', cursive;
+      
+      
+      }
+      h5{
+      
+        font-family: 'Kalam', cursive;
+      
+      }
+      
+      
+      
+      center{
+      
+        font-family: 'Kalam', cursive;
+      
+      }
+
+
+
+
+
+      
+.logo img{
+  width: 110px;
+  margin-top: -7px;
+  margin-right: 48px;
+  
+  }
+  
+  .logos img{
+    width: 200px;
+    margin-top: -7px;
+    margin-right: 48px;
+    
+    }
+    
+  
+
+
+
+
+
+.bg-white {
+  background-color: rgba(255, 251, 0, 0.938)
+}
+
+.navbar-brand {
+  padding: 50.5px 50px;
+  font-size: 18px
+}
+
+.navbar-nav {
+  width: 100%
+}
+
+.nav-item {
+  padding: 30px 10px;
+  margin: 0px 3px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 25px;
+  color: rgba(189, 199, 51, 0.979);
+  position: static
+}
+
+.nav-item.active {
+  color: #12ad65
+}
+
+.nav-item:hover {
+  color: #2bc90c8f
+}
+
+a {
+  color: inherit !important
+}
+
+.nav-link {
+  padding: 10px
+}
+
+.navbar-collapse.collapse.in {
+  display: block !important
+}
+
+.fa-angle-down {
+  padding-left: 40px
+}
+
+.fa-icon {
+  font-size: 30px;
+  color: rgba(37, 82, 82, 0.692);
+  background-color: rgba(60, 207, 195, 0.555);
+  margin: 2px 10px 5px 0px;
+  border-radius: 20px;
+  width: 50px;
+  height: 50px
+}
+
+.dropdown-menu {
+  margin-top: 0px;
+  border: none;
+  background-color: #01afff69;
+  padding: 10px 10px 10px 10px
+}
+
+#dropdown-menu1 {
+  position: absolute;
+  left: 165px
+}
+
+#dropdown-menu2 {
+  position: absolute;
+  left: 285px
+}
+
+#dropdown-menu3 {
+  position: absolute;
+  left: 415px
+}
+#dropdown-menu4 {
+position: absolute;
+left: 615px
+}
+
+.tab {
+  margin-bottom: 18px;
+  width: 300px
+}
+
+.tab:hover {
+  color: #8ae91ed2 !important
+}
+
+.dropdown-item {
+  padding: 0px
+}
+
+.dropdown-item:hover {
+  background-color: inherit
+}
+
+@media (max-width: 767px) {
+  .nav-item {
+      width: 100%;
+      text-align: left;
+      padding-left: 10px
+  }
+
+  .dropdown-menu {
+      left: 0 !important;
+      position: relative !important;
+      padding: 20px
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.full {
+  width: 100%;    
+}
+.gap {
+height: 30px;
+width: 100%;
+clear: both;
+display: block;
+}
+.footer {
+background: #da800c;
+height: auto;
+padding-bottom: 30px;
+position: relative;
+width: 100%;
+border-bottom: 1px solid #070505;
+border-top: 1px solid #000000;
+}
+.footer p {
+margin: 0;
+}
+.footer img {
+max-width: 100%;
+}
+.footer h3 {
+color: white;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+padding: 40px 0 0px;
+text-transform: uppercase;
+margin-bottom: 15px;
+}
+
+.footer h4 {
+color: white;
+font-size: 2em;
+font-weight: 600;
+line-height: 38px;
+padding: 40px 0 10px;
+font-family: cursive;
+font-weight: helvetica
+}
+
+.footer ul {
+font-size: 13px;
+list-style-type: none;
+margin-left: 0;
+padding-left: 0;
+margin-top: 0px;
+color: #f9fafa;
+padding: 0 0 8px 0;
+}
+
+.email{
+border-bottom: 3px solid #fff;
+}
+.footer ul li a {
+padding: 0 0 12px 0;
+display: block;
+}
+.footer a {
+color: white;
+font-weight: lighter;
+}
+
+.footer p {
+color: white;
+font-weight: lighter;
+ 
+}
+
+.footer a:hover {
+text-decoration:none;
+font-weight: bold;
+}
+.supportLi h4 {
+font-size: 20px;
+font-weight: lighter;
+line-height: normal;
+margin-bottom: 0 !important;
+padding-bottom: 0;
+}
+
+.bg-gray {
+background-image: -moz-linear-gradient(center bottom, #BBBBBB 0%, #F0F0F0 100%);
+box-shadow: 0 1px 0 #fff9f9;
+}
+
+
+.footer a {
+color: #78828D
+}
+
+.footer-bottom {
+margin-top: 2em;
+border-top: 1px solid #DDDDDD;
+padding-top: 20px;
+padding-bottom: 10px;
+}
+.footer-bottom p.pull-left {
+padding-top: 6px;
+font-size: 0.75em
+}
+
+.footer h4 .dya {
+font: helvetica;}
+
+
+
+
+
+
+
+
+input[type="number"]{ 
+    
+  outline:none;
+  padding: 20px;
+  display: block;
+  width: 300px;
+  border: 1px solid rgba(0, 0, 0, 0.933);
+  margin: 20px auto;
+  
+  }
+
+
+
+  input[type="text"]{ 
+    
+    outline:none;
+    padding: 20px;
+    display: block;
+    width: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.933);
+    margin: 20px auto;
+    
+    }
+    input[type="submit"]{
+    
+      padding: 20px;
+      color: rgb(255, 255, 255);
+      background:rgba(4, 165, 125, 0.774);
+      width: 320px;
+      margin: 20px auto;
+      margin-top: 0;
+      border: 0;
+      border-radius: 3px;
+      cursor: pointer;
+      
+      }
+    

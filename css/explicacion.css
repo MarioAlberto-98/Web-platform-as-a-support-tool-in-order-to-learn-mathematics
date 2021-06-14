@@ -1,0 +1,49 @@
+.container-title-expli{
+  background: rgb(127, 182, 0);
+  padding: 100px 70px;
+
+}
+.img-title{
+  width: 45%;
+}
+.title-topic{
+  font-size: 60px;
+  color: white;
+  
+  }
+  .words-topic{
+    font-size: 40px;
+  }
+  .para-topic{
+    font-size: 25px;
+  }
+
+  .container-video{
+    background: rgb(240, 240, 240);
+  padding: 100px 70px;
+  }
+  .container-img{
+    background: rgb(250, 250, 250);
+  padding: 100px 70px;
+  }
+  .title-sec{
+  font-size: 40px;
+  }
+  .para-sec{
+  font-size: 25px;
+  }
+  .tam-v{
+
+    width: 100%;
+ height: 300px;
+  
+
+  }
+  .tam-img{
+width: 80%;
+    
+  }
+  
+
+
+

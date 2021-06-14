@@ -1,0 +1,102 @@
+.container-first{
+  padding: 100px 70px;
+background: linear-gradient(to top, #ffffff9d, #ffffff9d), url(../img/fo2.png);
+}
+.img-with-first{
+  width: 35%;
+}
+.img-with-first2{
+  width: 35%;
+}
+
+.title-one{
+  font-size: 70px;
+  padding: 0px 0px;
+}
+.para-one{
+  font-size: 26px;
+}
+
+
+/*Cards*/
+.container-second{
+  padding: 100px 70px;
+}
+ /*Cards prt 3*/
+
+ .container-third{
+  padding: 100px 70px;
+  background: rgb(241, 241, 241);
+ }
+
+.title-third{
+  padding:50px 0px;
+  font-size: 50px;
+}
+
+@media (max-width: 970px) {
+  .container-first{
+    padding: 100px 30px;
+
+  }
+  .title-one{
+    font-size: 50px;
+    padding: 0px 10px;
+  }
+  .para-one{
+    font-size: 26px;
+  }
+  
+ 
+
+}
+
+
+@media (max-width: 750px) {
+ 
+  .img-with-first{
+    width: 55%;
+  }
+  .img-with-first2{
+    width: 55%;
+  }
+  
+
+}
+
+
+
+@media (max-width: 650px) {
+ 
+  .img-with-first{
+    margin-top: 50px;
+    width: 35%;
+  }
+  .img-with-first2{
+    margin-top: 50px;
+    width: 35%;
+  }
+  .container-second{
+    padding: 100px 50px;
+  }
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
